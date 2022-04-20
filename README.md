@@ -5,6 +5,7 @@ Predicting Expenses on Web &amp; App using Linear Regression Model
 ![graph1](https://github.com/Efi-Pecani/Ecommerce-Customers-Data/blob/main/yearly_amount_spent%20as%20a%20function%20of%20length%20of%20session.png)
 
 ![model_resid](https://github.com/Efi-Pecani/Ecommerce-Customers-Data/blob/main/model_residuals_distribution.png)
+![3d_g1](https://github.com/Efi-Pecani/Ecommerce-Customers-Data/blob/main/3d_plot_app_time_leng_membership_amounts_per_year.png)
 
 ![cor_visuals](https://github.com/Efi-Pecani/Ecommerce-Customers-Data/blob/main/correlations_visualized_ecommerce_data.png)
 
